@@ -89,35 +89,13 @@ The project evaluates multiple classification models and selects the best-perfor
 ## 📷 Project Screenshots
 
 ### Exploratory Data Analysis
-(Add Distribution Graphs image here)
+![EDA](Distribution%20Graphs.png)
 
 ### Model Performance Comparison
-(Add Model Performance image here)
+![Model Performance](Model%20Performance%20Comparison.png)
 
 ### Gradio User Interface
-(Add Gradio UI image here)
+![Gradio UI](Gradio%20(UI)(1).png)
 
 ---
 
-## 📂 Repository Structure
-
-```bash
-hydration-level-prediction-ml/
-│
-├── Dataset/
-│   └── Dataset.csv
-│
-├── Notebook/
-│   └── ML_HYDRATION_PROJECT.ipynb
-│
-├── Images/
-│   ├── Distribution Graphs.png
-│   ├── Hydration level Distribution (After SMOTE).png
-│   ├── Model Performance Comparison.png
-│   └── Gradio UI.png
-│
-├── Presentation/
-│   └── Binary Classification Of Hydration Levels.pptx
-│
-├── README.md
-└── requirements.txt
