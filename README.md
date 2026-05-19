@@ -95,7 +95,7 @@ The project evaluates multiple classification models and selects the best-perfor
 ![Model Performance](Model%20Performance%20Comparison.png)
 
 ### Gradio User Interface
-![Gradio UI](Gradio%20(UI)(1).png)
+![Gradio UI](gradio-ui.png)
 
 ---
 
